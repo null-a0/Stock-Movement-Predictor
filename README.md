@@ -2,8 +2,6 @@
 
 ## IITM BS MLOps OPPE-1
 
-**Repository:** `23F1001572_IITMBS_MLOPS_OPPE1_MAY_2026`
-
 ---
 
 # Project Overview
